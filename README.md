@@ -62,7 +62,7 @@ cd ./tree_generation
 
 python generate_tree_poincare.py --country CN --v <VERSION> --b <B> --crosslayer <CROSSLAYER> --k <K> 
 
-cd ./tree_generation/exp_emb/CN_v1_embedding.pkl 
+  ./tree_generation/exp_emb/CN_v1_embedding.pkl 
 is the provided embedding result for China’s short-term 2018-19 data, used to run the tree generation code.
 ```
 
